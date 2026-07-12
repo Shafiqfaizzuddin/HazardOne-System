@@ -1,0 +1,25 @@
+# Android Studio and Gradle
+mobile-app/.gradle/
+mobile-app/.idea/
+mobile-app/.kotlin/
+mobile-app/**/build/
+mobile-app/captures/
+mobile-app/.externalNativeBuild/
+mobile-app/.cxx/
+
+# Android local configuration and API keys
+mobile-app/local.properties
+mobile-app/secrets.properties
+*.jks
+*.keystore
+
+# PHP configuration and secrets
+web-app/config.php
+web-app/.env
+
+# Composer dependencies, if used
+web-app/vendor/
+
+# Operating system files
+Thumbs.db
+.DS_Store
