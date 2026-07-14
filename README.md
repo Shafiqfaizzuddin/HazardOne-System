@@ -50,8 +50,8 @@ to view and report road, environmental, and building hazards.
 
 | Name     | Student Number | Task                                 |
 |----------|----------------|--------------------------------------|
-| WAN MOHAMAD SYAZRIN BIN MOHAMAD SHUKRI | 2025197599     | Mobile application & Web application |
 | MUHAMMAD SHAFIQ FAIZZUDDIN BIN MD BAHARON | 2025516823     | Project Manager |
+| WAN MOHAMAD SYAZRIN BIN MOHAMAD SHUKRI | 2025197599     | Mobile application & Web application |
 | NASRUL DANIAL BIN JUHAR | 2025386309     | Mobile QA/Test Automation Engineers |
 | AMIRUL KHUSAIRIE BIN KHILMI | 2025910147     | Mobile QA/Test Automation Engineers |
 | MUHAMMAD AIMAN NAZHIF BIN NORKAMAL | 2025148265     | UI/UX Designer|
