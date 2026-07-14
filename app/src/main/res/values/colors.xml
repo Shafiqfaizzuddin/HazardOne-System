@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indigo_600">#3F51B5</color>
+    <color name="indigo_800">#283593</color>
+    <color name="amber_500">#FFC107</color>
+    <color name="amber_700">#FFA000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Mode Colors -->
+    <color name="indigo_200">#9FA8DA</color>
+    <color name="amber_200">#FFE082</color>
+    <color name="dark_surface">#121212</color>
+    <color name="dark_surface_variant">#1E1E1E</color>
+    <color name="dark_on_surface">#F5F5F5</color>
+</resources>

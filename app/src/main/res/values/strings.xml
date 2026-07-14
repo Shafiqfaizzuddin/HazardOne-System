@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Hazard One</string>
+    <string name="title_activity_maps">Hazard One</string>
+    <string name="title_activity_report">Report Hazard</string>
+    <string name="title_activity_about">About Hazard One</string>
+
+    <string name="label_user_name">User Name</string>
+    <string name="label_location_name">Location Name</string>
+    <string name="label_category">Hazard Category</string>
+    <string name="label_description">Description</string>
+    <string name="label_latitude">Latitude: %1$s</string>
+    <string name="label_longitude">Longitude: %1$s</string>
+    <string name="btn_submit">Submit Report</string>
+    <string name="btn_report_hazard">Report Hazard</string>
+    <string name="btn_my_location">My Location</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_switch_content_description">Switch light or dark mode</string>
+
+    <string name="about_description">Community-driven hazard reporting application for a safer environment.</string>
+    <string name="about_project_info">Project Information</string>
+    <string name="about_group_info">Group: RCDCS2515B\nProgramme Code: CS251</string>
+    <string name="about_member_name">Shafiq</string>
+    <string name="about_member_id">Student ID: 2025516823\nTask: Project Manager</string>
+    <string name="about_member2_name">Wan Syazrin</string>
+    <string name="about_member2_id">Student ID: 2025197599\nTask: Mobile App and Web App Developer</string>
+
+
+    <string name="about_member3_name">Nasrul</string>
+    <string name="about_member3_id">Student ID: 2025386309\nTask: Mobile QA/Test Automation Engineers</string>
+    <string name="about_member4_name">Amirul</string>
+    <string name="about_member4_id">Student ID: 2025910147\nTask: Mobile QA/Test Automation Engineers</string>
+    <string name="about_member5_name">Nazhif</string>
+    <string name="about_member5_id">Student ID: 2025148265\nTask: UI/UX Designer</string>
+
+    <string name="about_github">View on GitHub</string>
+    <string name="about_copyright">Copyright © 2026 One Corporation Team\nAll rights reserved.</string>
+
+    <string name="error_name_empty">Please enter your name.</string>
+    <string name="error_location_empty">Please enter the location.</string>
+    <string name="error_description_empty">Please describe the hazard.</string>
+    <string name="error_generic">Unable to submit report.</string>
+    <string name="error_server">Server error: %1$s</string>
+</resources>
