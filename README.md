@@ -50,11 +50,11 @@ to view and report road, environmental, and building hazards.
 
 | Name     | Student Number | Task                                 |
 |----------|----------------|--------------------------------------|
-| Member 1 | 2025197599     | Mobile application & Web application |
-| Member 2 | 2025516823     | Documentation |
-| Member 3 | 2025386309     | Documentation |
-| Member 4 | 2025910147     | Documentation |
-| Member 5 | 2025148265     | Documentation |
+| WAN MOHAMAD SYAZRIN BIN MOHAMAD SHUKRI | 2025197599     | Mobile application & Web application |
+| MUHAMMAD SHAFIQ FAIZZUDDIN BIN MD BAHARON | 2025516823     | Project Manager |
+| NASRUL DANIAL BIN JUHAR | 2025386309     | Mobile QA/Test Automation Engineers |
+| AMIRUL KHUSAIRIE BIN KHILMI | 2025910147     | Mobile QA/Test Automation Engineers |
+| MUHAMMAD AIMAN NAZHIF BIN NORKAMAL | 2025148265     | UI/UX Designer|
 
 ## Copyright
 
